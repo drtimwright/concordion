@@ -9,7 +9,7 @@ Users should see the [Concordion](http://www.concordion.org) web site for detail
 This README covers information for people wanting to work with the Concordion source code.
 
 # Target Java version
-Concordion currently targets Java 6.
+Concordion currently targets Java 7.
 
 # Building Concordion
 Concordion uses [Gradle](http://www.gradle.org/) as a build tool. The code base includes the Gradle Wrapper, which will automatically download the correct version of Gradle.
